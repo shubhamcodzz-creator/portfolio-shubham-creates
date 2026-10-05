@@ -1,72 +1,20 @@
-:root {
-  --bg: #000000;
-  --red: #ff0000;
-  --red-dim: rgba(255, 0, 0, 0.72);
-  --black: #000000;
-}:root {
-  --bg: #000000;
-  --red: #ff0000;
-  --red-dim: rgba(255, 0, 0, 0.72);
-  --black: #000000;
-}:root {
-  --bg: #000000;
-  --red: #ff0000;
-  --red-dim: rgba(255, 0, 0, 0.72);
-  --black: #000000;
-}:root {
-  --bg: #000000;
-  --red: #ff0000;
-  --red-dim: rgba(255, 0, 0, 0.72);
-  --black: #000000;
-}:root {
-  --bg: #000000;
-  --red: #ff0000;
-  --red-dim: rgba(255, 0, 0, 0.72);
-  --black: #000000;
-}:root {
-  --bg: #000000;
-  --red: #ff0000;
-  --red-dim: rgba(255, 0, 0, 0.72);
-  --black: #000000;
-}:root {
-  --bg: #000000;
-  --red: #ff0000;
-  --red-dim: rgba(255, 0, 0, 0.72);
-  --black: #000000;
-}.frame {
-  position: relative;
-  background: var(--red);
-  border: 1px solid var(--red);
-  isolation: isolate;
-}.frame {
-  position: relative;
-  background: var(--red);
-  border: 1px solid var(--red);
-  isolation: isolate;
-}.frame {
-  position: relative;
-  background: var(--red);
-  border: 1px solid var(--red);
-  isolation: isolate;
-}.frame {
-  position: relative;
-  background: var(--red);
-  border: 1px solid var(--red);
-  isolation: isolate;
-}/* ============================================================
-   PORTFOLIO v3 — shared stylesheet for all chapters
-   RED on BLACK · halftone frames · corner HUD · nav bar ·
-   pure CSS animations · no JavaScript
-   Index:
-     01 tokens/reset        06 work / projects
-     02 base + CRT          07 awards
-     03 photo frames        08 contact
-     04 HUD + chapter nav   09 footer
-     05 hero · ticker · about · services · chapters
-     10 animations (+ progressive scroll reveals)
-     11 responsive
-   ============================================================ */
 
+}:root {
+  --bg: #000000;
+  --red: #ff0000;
+  --red-dim: rgba(255, 0, 0, 0.72);
+  --black: #000000;
+}:root {
+  --bg: #000000;
+  --red: #ff0000;
+  --red-dim: rgba(255, 0, 0, 0.72);
+  --black: #000000;
+}.frame {
+  position: relative;
+  background: var(--red);
+  border: 1px solid var(--red);
+  isolation: isolate;
+}
 /* ---------- 01. TOKENS & RESET ---------- */
 :root {
   --bg: #000000;
